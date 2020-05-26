@@ -1,0 +1,44 @@
+
+// input write an array with random numbers 
+// output print an order array
+
+
+//solution with bubble sort 
+
+while (!sorted) 
+ for (array.length)
+	if(array[i] > array[i + 1]) sorted = true;
+
+
+
+//selection sort 
+
+for ( i = left; i<rigth)
+     min = i;
+   for (j = i; j < right)  
+        if array[ j ]  < array [i]   min = j; 
+swap(array [i]);
+
+
+//merge sort 
+
+function (sort):
+if ( array.length <= 1 ) array = sorted;
+ pivot = array / 2;
+ array_left =(0 , pivot) ;
+ array_right = (pivot , array.length); 
+apply function sort in array_left and array_right 
+merge array_right array_left;
+
+//quick sort 
+function:
+if ( array.length > 1 ) 
+start = i random; 
+  if ( array[i] < start) 
+   arrayleft.push(array[i]);
+  else 
+  arrayright.push(array[i];
+apply function sort in array_left and array_right 
+
+
+
